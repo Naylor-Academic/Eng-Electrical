@@ -2,9 +2,9 @@
 
 <a href="https://naylor-academic.github.io/Eng-Electrical/">Library</a>
 
-Introdução: 
+<h1>Introdução:</h1> 
 
-Entrar na área da elétrica pode ser uma ótima escolha, pois é um setor com muitas oportunidades de trabalho e crescimento. Aqui estão os passos que você pode seguir para ingressar nessa área:
+<h2>Entrar na área da elétrica pode ser uma ótima escolha, pois é um setor com muitas oportunidades de trabalho e crescimento. Aqui estão os passos que você pode seguir para ingressar nessa área:</h2>
 
 ### 1. **Escolha o Nível de Atuação**
    - **Auxiliar/Eletricista Instalador**: Cursos básicos ou técnicos.
