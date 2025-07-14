@@ -1,4 +1,4 @@
-# Electrical Engineering
+# Electrical-Engineering
 
 <a href="https://naylor-academic.github.io/Eng-Electrical/">Library</a>
 
